@@ -38,17 +38,19 @@ Percentage: **74%**
 
 ---
 
-⚙️ Technical Skills
-Cloud: Microsoft Azure
-Operating Systems: Linux (RHEL), Windows Server
-DevOps: Docker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps
-Infrastructure as Code: Terraform, Ansible
-Version Control: Git, GitHub
-Scripting: Bash, PowerShell
-Monitoring: Prometheus, Grafana
-Web Servers: Nginx, Apache
-Virtualization: VMware vSphere
-Networking: TCP/IP, DNS, Load Balancers
+### ⚙️ Technical Skills
+
+* **Cloud:** Microsoft Azure
+* **Operating Systems:** Linux (RHEL), Windows Server
+* **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps
+* **Infrastructure as Code:** Terraform, Ansible
+* **Version Control:** Git, GitHub
+* **Scripting:** Bash, PowerShell
+* **Monitoring:** Prometheus, Grafana
+* **Web Servers:** Nginx, Apache
+* **Virtualization:** VMware vSphere
+* **Networking:** TCP/IP, DNS, Load Balancers
+
 
 ---
 🚀 Featured Projects
