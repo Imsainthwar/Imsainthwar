@@ -64,20 +64,7 @@ Tech Stack: React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 ### 🏆 Certifications
 
 * Wipro Certified – Infrastructure Administration | Azure Fundamentals | Wintel Administration
-
 ---
-
-### 🎯 Current Focus
-
-* DevOps Engineering
-* AWS & Azure Cloud
-* Kubernetes & Docker
-* CI/CD Automation
-* Infrastructure as Code
-* Open Source Contributions
-
----
-
 ### 📫 Connect
 
 * **LinkedIn:** https://www.linkedin.com/in/imshashanksingh
