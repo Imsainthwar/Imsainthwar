@@ -1,4 +1,4 @@
-# Hi, I'm Shashank Singh | BITS Pilani'26 |Aspiring DevOps Engineer
+# Hi, I'm Shashank Singh | BITS Pilani'26 | Aspiring DevOps Engineer
 
 
 
@@ -15,26 +15,6 @@ CGPA: **7.1**
 **VIET, Gorakhpur (Affiliated to BTEUP)**
 **Diploma in Computer Science Engineering** *(Jun 2019 – Jun 2022)*
 Percentage: **74%**
-
----
-
-### 💼 Professional Experience
-
-**Infrastructure Engineer | Wipro (PNB Bank)** *(Jan 2026 – Present)*
-
-* Windows Server & RHEL Administration
-* VMware vSphere, Active Directory & DNS
-* Dell NetWorker, Data Domain & Backup Administration
-* Production Support & Disaster Recovery
-* Infrastructure Monitoring & Troubleshooting
-* IBM Servers, Cisco Networking & Load Balancers
-
-**Endpoint Security Engineer | Wipro (EXL & ICICI Bank)** *(Oct 2022 – Dec 2025)*
-
-* Managed endpoint security for **1,850+ enterprise users**
-* Windows 10 to Windows 11 Migration (**750+ systems**)
-* SCCM, EDR, Netskope, Druva, DLP & ClearPass OnGuard
-* Security Compliance, SOP Documentation & Audit Support
 
 ---
 
@@ -62,7 +42,7 @@ A full-stack web application designed to help students prepare for placements th
 Tech Stack: React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
 ---
-### 🏆 Certifications
+### 🏆 Certifications & Achievement
 
 * Wipro Certified – Infrastructure Administration | Azure Fundamentals | Wintel Administration
 ---
