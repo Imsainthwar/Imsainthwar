@@ -8,11 +8,11 @@ Infrastructure Engineer with nearly **4 years of experience** in enterprise IT i
 
 ### 🎓 Education
 
-**Birla Institute of Technology and Science (BITS), Pilani**
+**Birla Institute of Technology and Science, Pilani**
 **B.Tech in Information Systems** *(Jan 2023 – Jul 2026)*
 CGPA: **7.1**
 
-**VIET, Gorakhpur (Affiliated to BTEUP)**
+**VIET, Gorakhpur**
 **Diploma in Computer Science Engineering** *(Jun 2019 – Jun 2022)*
 Percentage: **74%**
 
