@@ -13,7 +13,7 @@ Infrastructure Engineer with nearly **4 years of experience** in enterprise IT i
 CGPA: **7.1**
 
 **VIET, Gorakhpur**
-**Diploma in Computer Science Engineering** *(Jun 2019 – Jun 2022)*
+**Diploma in CSE** *(Jun 2019 – Jun 2022)*
 Percentage: **74%**
 
 ---
