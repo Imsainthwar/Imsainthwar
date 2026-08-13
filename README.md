@@ -1,34 +1,53 @@
 # Hi, I'm Shashank Singh 👋
 
-### Infrastructure Engineer | DevOps Enthusiast | Cloud & Automation
+### Infrastructure Engineer | DevOps Enthusiast | BITS Pilani'26
 
 I’m an **Infrastructure Engineer at Wipro** with 4+ years of experience in enterprise IT infrastructure, system administration, virtualization, backup & recovery, and production support.
 
 Currently focused on **DevOps, Cloud Engineering, Infrastructure Automation, and building scalable systems**.
 
-### ⚡ Tech Stack
+---
 
-**Cloud & DevOps:** Azure • Docker • Kubernetes • Jenkins • GitHub Actions
-**Infrastructure:** Linux • Windows Server • VMware • Networking
-**Automation:** Terraform • Ansible • Bash • PowerShell
-**Development:** React.js • Node.js • Express.js • MongoDB
+### ⚙️ Technical Skills
 
-### 🚀 Project
+* **Cloud:** Microsoft Azure
+* **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
+* **Infrastructure:** Linux (RHEL), Windows Server, VMware vSphere
+* **Infrastructure as Code:** Terraform, Ansible
+* **Scripting:** Bash, PowerShell
+* **Networking:** TCP/IP, DNS, Load Balancers
+* **Monitoring:** Prometheus, Grafana
+* **Web Servers:** Nginx, Apache
+* **Version Control:** Git, GitHub
+* **Development:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+### 🚀 Featured Project
 
 **CipherTrack**
 
-An AI-powered placement and career guidance platform built to help students with **ATS optimization, interview preparation, learning resources, progress tracking, and career guidance**.
+An AI-powered placement and career guidance platform designed to help students with **ATS optimization, interview preparation, learning resources, progress tracking, and career guidance**.
 
-**React.js • Node.js • Express.js • MongoDB • Tailwind CSS**
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS
+
+---
 
 ### 🎓 Education
 
-**B.Tech in Information Systems — BITS Pilani (2023–2026)** •
-**Diploma in Computer Science Engineering — VIET Gorakhpur (2019–2022)**
+**Birla Institute of Technology and Science, Pilani**
+B.Tech in Information Systems | 2023–2026 | CGPA: 7.1
 
-### 🏆 Certification & Achievements
+**VIET Gorakhpur**
+Diploma in Computer Science Engineering | 2019–2022 | 74%
 
-**Wipro Certified:** Infrastructure Administration • Azure Fundamentals • Wintel Administration
+---
+
+### 🏆 Certifications & Achievements
+
+* **Wipro Certified:** Infrastructure Administration, Azure Fundamentals & Wintel Administration
+
+---
 
 ### 🌐 Connect
 
