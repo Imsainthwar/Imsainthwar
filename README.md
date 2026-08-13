@@ -1,57 +1,37 @@
-# Hi, I'm Shashank Singh | BITS Pilani'26 | Aspiring DevOps Engineer
+# Hi, I'm Shashank Singh 👋
 
+### Infrastructure Engineer | DevOps Enthusiast | Cloud & Automation
 
+I’m an **Infrastructure Engineer at Wipro** with 4+ years of experience in enterprise IT infrastructure, system administration, virtualization, backup & recovery, and production support.
 
-**Infrastructure Engineer | Wipro Limited** | Oct 2022 - Present
+Currently focused on **DevOps, Cloud Engineering, Infrastructure Automation, and building scalable systems**.
 
-Nearly **4 years of experience** in enterprise IT infrastructure, system administration, virtualization, backup & recovery, and production support. Passionate about **DevOps, Cloud Computing, Infrastructure Automation, and CI/CD**, with a focus on building scalable and reliable infrastructure.
+### ⚡ Tech Stack
 
----
+**Cloud & DevOps:** Azure • Docker • Kubernetes • Jenkins • GitHub Actions
+**Infrastructure:** Linux • Windows Server • VMware • Networking
+**Automation:** Terraform • Ansible • Bash • PowerShell
+**Development:** React.js • Node.js • Express.js • MongoDB
+
+### 🚀 Project
+
+**CipherTrack**
+
+An AI-powered placement and career guidance platform built to help students with **ATS optimization, interview preparation, learning resources, progress tracking, and career guidance**.
+
+**React.js • Node.js • Express.js • MongoDB • Tailwind CSS**
 
 ### 🎓 Education
 
-**Birla Institute of Technology and Science Pilani |**
-**B.Tech in Information Systems** *(Jan 2023 – Jul 2026)*
-CGPA: **7.1**
+**B.Tech in Information Systems — BITS Pilani (2023–2026)** •
+**Diploma in Computer Science Engineering — VIET Gorakhpur (2019–2022)**
 
-**VIET Gorakhpur |** 
-**Diploma in CSE** *(Jun 2019 – Jun 2022)*
-Percentage: **74%**
+### 🏆 Certification & Achievements
 
----
+**Wipro Certified:** Infrastructure Administration • Azure Fundamentals • Wintel Administration
 
-### ⚙️ Technical Skills
+### 🌐 Connect
 
-* **Cloud:** Microsoft Azure
-* **Operating Systems:** Linux (RHEL), Windows Server
-* **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps
-* **Infrastructure as Code:** Terraform, Ansible
-* **Version Control:** Git, GitHub
-* **Scripting:** Bash, PowerShell
-* **Monitoring:** Prometheus, Grafana
-* **Web Servers:** Nginx, Apache
-* **Virtualization:** VMware vSphere
-* **Networking:** TCP/IP, DNS, Load Balancers
+[LinkedIn](https://www.linkedin.com/in/imshashanksingh) • [GitHub](https://github.com/Imsainthwar) • [Email](mailto:Shashanksingh884050@gmail.com)
 
-
----
-🚀 Featured Projects
-
-CipherTrack – AI-Powered Placement Preparation & Career Guidance Platform
-
-A full-stack web application designed to help students prepare for placements through AI-driven career guidance. The platform includes resume ATS analysis, interview preparation, learning resources, progress tracking, and personalized career recommendations.
-
-Tech Stack: React.js • Node.js • Express.js • MongoDB • Tailwind CSS
-
----
-### 🏆 Certifications & Achievement
-
-* Wipro Certified – Infrastructure Administration | Azure Fundamentals | Wintel Administration
----
-### 📫 Connect
-
-* **LinkedIn:** https://www.linkedin.com/in/imshashanksingh
-* **GitHub:** https://github.com/Imsainthwar
-* **Email:** [Shashanksingh884050@gmail.com]
-
-
+> **Learn. Build. Automate. Repeat. ⚙️**
